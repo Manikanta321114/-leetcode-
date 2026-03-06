@@ -1,0 +1,74 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Todo App</title>
+    <style>
+        body { font-family: Arial, sans-serif; padding: 20px; }
+        h1 { margin-bottom: 10px; }
+        input { padding: 6px; width: 250px; }
+        button { padding: 6px 10px; margin-left: 4px; }
+        ul { margin-top: 15px; padding-left: 20px; }
+        li { cursor: pointer; margin: 5px 0; }
+        li:hover { color: red; text-decoration: line-through; }
+        small { color: #555; }
+    </style>
+</head>
+<body>
+    <h1>My Todo App</h1>
+    <small>(Click on a task to delete it)</small>
+    <br><br>
+
+    <input id="taskInput" placeholder="Enter a task...">
+    <button onclick="addTask()">Add</button>
+
+    <ul id="taskList"></ul>
+
+<script>
+const API_URL = "http://127.0.0.1:8000";
+
+// Load tasks from backend
+async function loadTasks() {
+    const res = await fetch(API_URL + "/tasks");
+    const tasks = await res.json();
+
+    const taskList = document.getElementById("taskList");
+    taskList.innerHTML = "";
+
+    tasks.forEach(task => {
+        const li = document.createElement("li");
+        li.innerText = task.text;
+        li.onclick = () => deleteTask(task.id); // click to delete
+        taskList.appendChild(li);
+    });
+}
+
+// Add new task
+async function addTask() {
+    const input = document.getElementById("taskInput");
+    const text = input.value.trim();
+    if (!text) return;
+
+    await fetch(API_URL + "/tasks", {
+        method: "POST",
+        headers: {"Content-Type": "application/json"},
+        body: JSON.stringify({ text })
+    });
+
+    input.value = "";
+    loadTasks();
+}
+
+// Delete task
+async function deleteTask(id) {
+    await fetch(API_URL + "/tasks/" + id, {
+        method: "DELETE"
+    });
+    loadTasks();
+}
+
+// initial load
+loadTasks();
+</script>
+</body>
+</html>
