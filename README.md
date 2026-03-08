@@ -8,6 +8,7 @@
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/Manikanta321114/-leetcode-/tree/main/0035-search-insert-position/) | Easy |
 | [0053-maximum-subarray](https://github.com/Manikanta321114/-leetcode-/tree/main/0053-maximum-subarray/) | Medium |
+| [0283-move-zeroes](https://github.com/Manikanta321114/-leetcode-/tree/main/0283-move-zeroes/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -20,4 +21,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Manikanta321114/-leetcode-/tree/main/0053-maximum-subarray/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0283-move-zeroes](https://github.com/Manikanta321114/-leetcode-/tree/main/0283-move-zeroes/) | Easy |
 <!---LeetCode Topics End-->
