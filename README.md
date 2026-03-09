@@ -29,5 +29,6 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0058-length-of-last-word](https://github.com/Manikanta321114/-leetcode-/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/Manikanta321114/-leetcode-/tree/main/0125-valid-palindrome/) | Easy |
 <!---LeetCode Topics End-->
