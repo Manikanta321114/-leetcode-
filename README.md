@@ -24,5 +24,10 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0125-valid-palindrome](https://github.com/Manikanta321114/-leetcode-/tree/main/0125-valid-palindrome/) | Easy |
 | [0283-move-zeroes](https://github.com/Manikanta321114/-leetcode-/tree/main/0283-move-zeroes/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0125-valid-palindrome](https://github.com/Manikanta321114/-leetcode-/tree/main/0125-valid-palindrome/) | Easy |
 <!---LeetCode Topics End-->
