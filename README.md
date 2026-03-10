@@ -6,6 +6,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Manikanta321114/-leetcode-/tree/main/0014-longest-common-prefix/) | Easy |
 | [0035-search-insert-position](https://github.com/Manikanta321114/-leetcode-/tree/main/0035-search-insert-position/) | Easy |
 | [0053-maximum-subarray](https://github.com/Manikanta321114/-leetcode-/tree/main/0053-maximum-subarray/) | Medium |
 | [0283-move-zeroes](https://github.com/Manikanta321114/-leetcode-/tree/main/0283-move-zeroes/) | Easy |
@@ -29,6 +30,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Manikanta321114/-leetcode-/tree/main/0014-longest-common-prefix/) | Easy |
 | [0058-length-of-last-word](https://github.com/Manikanta321114/-leetcode-/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/Manikanta321114/-leetcode-/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/Manikanta321114/-leetcode-/tree/main/0242-valid-anagram/) | Easy |
@@ -40,4 +42,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/Manikanta321114/-leetcode-/tree/main/0242-valid-anagram/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Manikanta321114/-leetcode-/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
