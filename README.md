@@ -22,6 +22,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Manikanta321114/-leetcode-/tree/main/0053-maximum-subarray/) | Medium |
+| [0392-is-subsequence](https://github.com/Manikanta321114/-leetcode-/tree/main/0392-is-subsequence/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -29,6 +30,7 @@
 | [0283-move-zeroes](https://github.com/Manikanta321114/-leetcode-/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/Manikanta321114/-leetcode-/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Manikanta321114/-leetcode-/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0392-is-subsequence](https://github.com/Manikanta321114/-leetcode-/tree/main/0392-is-subsequence/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -38,6 +40,7 @@
 | [0242-valid-anagram](https://github.com/Manikanta321114/-leetcode-/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/Manikanta321114/-leetcode-/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Manikanta321114/-leetcode-/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0392-is-subsequence](https://github.com/Manikanta321114/-leetcode-/tree/main/0392-is-subsequence/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
