@@ -9,6 +9,7 @@
 | [0014-longest-common-prefix](https://github.com/Manikanta321114/-leetcode-/tree/main/0014-longest-common-prefix/) | Easy |
 | [0035-search-insert-position](https://github.com/Manikanta321114/-leetcode-/tree/main/0035-search-insert-position/) | Easy |
 | [0053-maximum-subarray](https://github.com/Manikanta321114/-leetcode-/tree/main/0053-maximum-subarray/) | Medium |
+| [0169-majority-element](https://github.com/Manikanta321114/-leetcode-/tree/main/0169-majority-element/) | Easy |
 | [0283-move-zeroes](https://github.com/Manikanta321114/-leetcode-/tree/main/0283-move-zeroes/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -18,6 +19,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Manikanta321114/-leetcode-/tree/main/0053-maximum-subarray/) | Medium |
+| [0169-majority-element](https://github.com/Manikanta321114/-leetcode-/tree/main/0169-majority-element/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -48,10 +50,12 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/Manikanta321114/-leetcode-/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/Manikanta321114/-leetcode-/tree/main/0242-valid-anagram/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/Manikanta321114/-leetcode-/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/Manikanta321114/-leetcode-/tree/main/0242-valid-anagram/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
@@ -61,4 +65,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Manikanta321114/-leetcode-/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/Manikanta321114/-leetcode-/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
