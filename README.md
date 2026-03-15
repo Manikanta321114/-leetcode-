@@ -69,4 +69,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Manikanta321114/-leetcode-/tree/main/0169-majority-element/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0009-palindrome-number](https://github.com/Manikanta321114/-leetcode-/tree/main/0009-palindrome-number/) | Easy |
 <!---LeetCode Topics End-->
