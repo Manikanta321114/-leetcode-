@@ -11,6 +11,7 @@
 | [0053-maximum-subarray](https://github.com/Manikanta321114/-leetcode-/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/Manikanta321114/-leetcode-/tree/main/0169-majority-element/) | Easy |
 | [0283-move-zeroes](https://github.com/Manikanta321114/-leetcode-/tree/main/0283-move-zeroes/) | Easy |
+| [0496-next-greater-element-i](https://github.com/Manikanta321114/-leetcode-/tree/main/0496-next-greater-element-i/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -54,6 +55,7 @@
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Manikanta321114/-leetcode-/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/Manikanta321114/-leetcode-/tree/main/0242-valid-anagram/) | Easy |
+| [0496-next-greater-element-i](https://github.com/Manikanta321114/-leetcode-/tree/main/0496-next-greater-element-i/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -79,5 +81,10 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Manikanta321114/-leetcode-/tree/main/0020-valid-parentheses/) | Easy |
+| [0496-next-greater-element-i](https://github.com/Manikanta321114/-leetcode-/tree/main/0496-next-greater-element-i/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/Manikanta321114/-leetcode-/tree/main/1021-remove-outermost-parentheses/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/Manikanta321114/-leetcode-/tree/main/0496-next-greater-element-i/) | Easy |
 <!---LeetCode Topics End-->
