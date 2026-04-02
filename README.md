@@ -36,6 +36,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/Manikanta321114/-leetcode-/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/Manikanta321114/-leetcode-/tree/main/0392-is-subsequence/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Manikanta321114/-leetcode-/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
+| [0844-backspace-string-compare](https://github.com/Manikanta321114/-leetcode-/tree/main/0844-backspace-string-compare/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -49,6 +50,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/Manikanta321114/-leetcode-/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/Manikanta321114/-leetcode-/tree/main/0392-is-subsequence/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Manikanta321114/-leetcode-/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
+| [0844-backspace-string-compare](https://github.com/Manikanta321114/-leetcode-/tree/main/0844-backspace-string-compare/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/Manikanta321114/-leetcode-/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -82,9 +84,14 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Manikanta321114/-leetcode-/tree/main/0020-valid-parentheses/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Manikanta321114/-leetcode-/tree/main/0496-next-greater-element-i/) | Easy |
+| [0844-backspace-string-compare](https://github.com/Manikanta321114/-leetcode-/tree/main/0844-backspace-string-compare/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/Manikanta321114/-leetcode-/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/Manikanta321114/-leetcode-/tree/main/0496-next-greater-element-i/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0844-backspace-string-compare](https://github.com/Manikanta321114/-leetcode-/tree/main/0844-backspace-string-compare/) | Easy |
 <!---LeetCode Topics End-->
