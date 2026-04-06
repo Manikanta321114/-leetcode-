@@ -85,13 +85,23 @@
 | [0020-valid-parentheses](https://github.com/Manikanta321114/-leetcode-/tree/main/0020-valid-parentheses/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Manikanta321114/-leetcode-/tree/main/0496-next-greater-element-i/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Manikanta321114/-leetcode-/tree/main/0844-backspace-string-compare/) | Easy |
+| [0901-online-stock-span](https://github.com/Manikanta321114/-leetcode-/tree/main/0901-online-stock-span/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/Manikanta321114/-leetcode-/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/Manikanta321114/-leetcode-/tree/main/0496-next-greater-element-i/) | Easy |
+| [0901-online-stock-span](https://github.com/Manikanta321114/-leetcode-/tree/main/0901-online-stock-span/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0844-backspace-string-compare](https://github.com/Manikanta321114/-leetcode-/tree/main/0844-backspace-string-compare/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0901-online-stock-span](https://github.com/Manikanta321114/-leetcode-/tree/main/0901-online-stock-span/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0901-online-stock-span](https://github.com/Manikanta321114/-leetcode-/tree/main/0901-online-stock-span/) | Medium |
 <!---LeetCode Topics End-->
