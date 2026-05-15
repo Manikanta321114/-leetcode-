@@ -21,6 +21,7 @@
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Manikanta321114/-leetcode-/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/Manikanta321114/-leetcode-/tree/main/0169-majority-element/) | Easy |
+| [0191-number-of-1-bits](https://github.com/Manikanta321114/-leetcode-/tree/main/0191-number-of-1-bits/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -107,4 +108,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0901-online-stock-span](https://github.com/Manikanta321114/-leetcode-/tree/main/0901-online-stock-span/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0191-number-of-1-bits](https://github.com/Manikanta321114/-leetcode-/tree/main/0191-number-of-1-bits/) | Easy |
 <!---LeetCode Topics End-->
