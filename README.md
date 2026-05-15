@@ -31,6 +31,7 @@
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Manikanta321114/-leetcode-/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0125-valid-palindrome](https://github.com/Manikanta321114/-leetcode-/tree/main/0125-valid-palindrome/) | Easy |
+| [0202-happy-number](https://github.com/Manikanta321114/-leetcode-/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Manikanta321114/-leetcode-/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/Manikanta321114/-leetcode-/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Manikanta321114/-leetcode-/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
@@ -56,6 +57,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Manikanta321114/-leetcode-/tree/main/0169-majority-element/) | Easy |
+| [0202-happy-number](https://github.com/Manikanta321114/-leetcode-/tree/main/0202-happy-number/) | Easy |
 | [0242-valid-anagram](https://github.com/Manikanta321114/-leetcode-/tree/main/0242-valid-anagram/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Manikanta321114/-leetcode-/tree/main/0496-next-greater-element-i/) | Easy |
 ## Sorting
@@ -79,6 +81,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/Manikanta321114/-leetcode-/tree/main/0009-palindrome-number/) | Easy |
+| [0202-happy-number](https://github.com/Manikanta321114/-leetcode-/tree/main/0202-happy-number/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
